@@ -1,0 +1,7 @@
+my_list = [1, 2, 3, 4, 5, 3]
+
+# Count the occurrences of the element 3 using list.count()
+element_to_count = 3
+count = my_list.count(element_to_count)
+
+print(f"The element {element_to_count} appears {count} times in the list.")

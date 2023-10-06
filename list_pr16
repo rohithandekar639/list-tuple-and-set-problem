@@ -1,0 +1,6 @@
+my_list = [10, 5, 8, 20, 3]
+
+# Find the maximum value in the list
+max_value = max(my_list)
+
+print(max_value)  

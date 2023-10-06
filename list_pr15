@@ -1,0 +1,6 @@
+my_list = [1, 2, 3, 4, 5]
+
+# Find the sum of all elements in the list
+total_sum = sum(my_list)
+
+print(total_sum)  # Output: 15

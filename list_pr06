@@ -1,0 +1,6 @@
+my_list = [1, 2, 3, 4, 3, 5]
+
+# Remove all occurrences of the value 3 from the list
+my_list = [x for x in my_list if x != 3]
+
+print(my_list)

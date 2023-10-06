@@ -1,0 +1,6 @@
+my_list = [10, 5, 8, 20, 3]
+
+# Find the minimum value in the list
+min_value = min(my_list)
+
+print(min_value)  

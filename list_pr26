@@ -1,0 +1,3 @@
+string_list = ["1", "2", "3", "4", "5"]
+integer_list = [int(x) for x in string_list]
+print(integer_list)

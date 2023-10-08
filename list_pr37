@@ -1,0 +1,5 @@
+my_list = ['apple', 'banana', 'cherry', 'date']
+
+my_dict = {element: index for index, element in enumerate(my_list)}
+
+print(my_dict)

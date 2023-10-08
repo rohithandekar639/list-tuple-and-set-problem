@@ -1,0 +1,4 @@
+n = 5  # Change this to the number of powers you want
+powers_of_2 = [2**i for i in range(n)]
+
+print(powers_of_2)

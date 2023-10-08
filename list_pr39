@@ -1,0 +1,5 @@
+import math
+
+factorial_numbers = [math.factorial(n) for n in range(10)]
+
+print(factorial_numbers)

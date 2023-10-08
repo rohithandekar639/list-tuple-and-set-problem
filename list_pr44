@@ -1,0 +1,7 @@
+# List of words
+word_list = ['This', 'is', 'a', 'list', 'of', 'words']
+
+# Convert the list of words into a string
+my_string = ' '.join(word_list)
+
+print(my_string)

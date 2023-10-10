@@ -1,3 +1,3 @@
-my_strings = ["apple", "banana", "cherry", "date", "elderberry"]
-longest_string = find_longest_string(my_strings)
-print("The longest string is:", longest_string)
+myList = ['mango', 'watermelon', 'apples']
+result = max(myList, key=len)
+print(f'longest string in a list of strings.- {result}.')

@@ -1,0 +1,10 @@
+# take list
+l = [1, 2, 3, 4, 5,6]
+
+# find length of the list
+count = 0
+for i in l:
+   count = count + 1
+
+# print length of the list
+print("The length of a list is", count)

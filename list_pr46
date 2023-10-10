@@ -1,0 +1,3 @@
+my_strings = ["apple", "banana", "cherry", "date", "elderberry"]
+longest_string = find_longest_string(my_strings)
+print("The longest string is:", longest_string)

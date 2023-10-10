@@ -1,0 +1,4 @@
+my_tuple = (1, 2, 3, 4, 5)
+third_element = my_tuple[2]
+
+print("The third element of the tuple is:", third_element)

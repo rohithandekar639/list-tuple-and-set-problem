@@ -1,0 +1,3 @@
+myList = ['mango', 'watermelon', 'apples']
+result = min(myList, key=len)
+print(f'shortest string in a list of strings.- {result}.')

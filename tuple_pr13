@@ -1,0 +1,7 @@
+# Define a tuple
+original_tuple = (1, 2, 3)
+
+repeated_tuple = original_tuple * 3
+
+# Print the repeated tuple
+print(repeated_tuple)

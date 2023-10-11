@@ -1,0 +1,7 @@
+# Define an empty tuple
+empty_tuple = ()
+
+if len(empty_tuple) == 0:
+    print("The tuple is empty.")
+else:
+    print("The tuple is not empty.")

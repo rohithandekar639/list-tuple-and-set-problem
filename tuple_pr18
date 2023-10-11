@@ -1,0 +1,11 @@
+# Define two tuples
+tuple1 = (1, 2, 3)
+tuple2 = (1, 2, 4)
+
+# Compare for equality
+if tuple1 == tuple2:
+    print("tuple1 and tuple2 are equal.")
+else:
+    print("tuple1 and tuple2 are not equal.")
+
+

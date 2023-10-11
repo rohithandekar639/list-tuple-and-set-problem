@@ -1,0 +1,8 @@
+# Creating a tuple with a single element
+single_element_tuple = (42,)
+
+# Printing the single-element tuple
+print(single_element_tuple)
+
+# Checking the type of the tuple
+print(type(single_element_tuple))

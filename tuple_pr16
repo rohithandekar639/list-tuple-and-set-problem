@@ -1,0 +1,8 @@
+# Create a nested tuple
+nested_tuple = (1, 2, (3, 4), 5, (6, 7, 8))
+
+# Access the first element of the outer tuple
+first_element = nested_tuple[0]
+
+# Print the first element
+print("The first element of the nested tuple is:", first_element)

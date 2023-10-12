@@ -1,0 +1,9 @@
+# Create a tuple
+original_tuple = (1, 2, 3, 4, 5)
+
+# Reverse the elements and create a new tuple
+reversed_tuple = tuple(reversed(original_tuple))
+
+# Print the reversed tuple
+print("Original Tuple:", original_tuple)
+print("Reversed Tuple:", reversed_tuple)

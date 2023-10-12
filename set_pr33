@@ -1,0 +1,7 @@
+# Sample string
+my_string = "hello, world"
+
+string_set = {char for char in my_string}
+
+# Print the set of unique characters
+print("Set of unique characters:", string_set)

@@ -1,0 +1,8 @@
+# Create a tuple of characters
+character_tuple = ('H', 'e', 'l', 'l', 'o', ',', ' ', 'W', 'o', 'r', 'l', 'd', '!')
+
+# Convert the tuple to a string
+resulting_string = ''.join(character_tuple)
+
+# Print the resulting string
+print(resulting_string)

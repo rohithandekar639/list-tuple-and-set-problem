@@ -1,0 +1,8 @@
+# Create a tuple with some numbers
+original_tuple = (1, 2, 3, 4, 5)
+
+# Multiply all elements by 2 and create a new tuple
+doubled_tuple = tuple(x * 2 for x in original_tuple)
+
+# Print the new tuple with doubled values
+print(doubled_tuple)

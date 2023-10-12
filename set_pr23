@@ -1,0 +1,8 @@
+# Create a regular set
+my_set = {1, 2, 3, 4, 5}
+
+# Convert the regular set to a frozen set
+my_frozen_set = frozenset(my_set)
+
+# Print the frozen set
+print("Frozen Set:", my_frozen_set)

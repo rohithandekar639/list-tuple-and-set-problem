@@ -1,0 +1,15 @@
+
+import random
+
+# Create a sample set
+my_set = {1, 2, 3, 4, 5}
+
+# Use the pop() method to remove a random element
+if my_set:
+    removed_element = my_set.pop()
+    print(f"Removed element: {removed_element}")
+else:
+    print("The set is empty.")
+
+# Print the updated set
+print("Updated set:", my_set)

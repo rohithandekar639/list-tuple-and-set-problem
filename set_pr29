@@ -1,0 +1,8 @@
+# Create a set
+my_set = set()
+
+# Check if the set is empty
+if not my_set:
+    print("The set is empty.")
+else:
+    print("The set is not empty.")

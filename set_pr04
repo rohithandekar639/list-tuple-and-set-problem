@@ -1,0 +1,9 @@
+# Create a set
+my_set = {1, 2, 3, 4, 5}
+
+# Check if an element exists in the set using the 'in' operator
+element_to_check = 3
+if element_to_check in my_set:
+    print(f"{element_to_check} exists in the set.")
+else:
+    print(f"{element_to_check} does not exist in the set.")

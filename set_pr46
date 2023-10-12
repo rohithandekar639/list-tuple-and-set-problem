@@ -1,0 +1,12 @@
+# Create a set and a list
+my_set = {1, 2, 3, 4, 5}
+my_list = [3, 4, 5, 6, 7]
+
+# Find the common elements using the intersection method
+common_elements = my_set.intersection(my_list)
+
+
+common_elements_list = list(common_elements)
+
+# Print the common elements
+print("Common elements:", common_elements_list)

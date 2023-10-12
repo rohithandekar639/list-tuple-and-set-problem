@@ -1,0 +1,8 @@
+# Create a tuple
+my_tuple = (10, 45, 23, 67, 5, 87)
+
+# Find the minimum value in the tuple
+minimum_value = min(my_tuple)
+
+# Print the minimum value
+print("The minimum value in the tuple is:", minimum_value)

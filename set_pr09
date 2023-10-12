@@ -1,0 +1,9 @@
+# Create two sets
+set1 = {1, 2, 3, 4, 5}
+set2 = {3, 4, 5, 6, 7}
+
+# Find the union of the two sets using the union() method
+union_set = set1.union(set2)
+
+# Print the union set
+print(union_set)

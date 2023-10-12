@@ -1,0 +1,9 @@
+# Create two sets
+set1 = {1, 2, 3}
+set2 = {4, 5, 6}
+
+# Check if the sets have no elements in common
+if set1.isdisjoint(set2):
+    print("The sets have no elements in common.")
+else:
+    print("The sets have some elements in common.")

@@ -1,0 +1,8 @@
+# Create a set
+my_set = {1, 2, 3, 4, 5}
+
+# Clear all elements from the set using the clear() method
+my_set.clear()
+
+# Print the set after clearing
+print("Set after clearing:", my_set)

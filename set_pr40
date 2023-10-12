@@ -1,0 +1,10 @@
+# Ask the user to enter elements separated by spaces
+input_string = input("Enter elements separated by spaces: ")
+
+input_list = input_string.split()
+
+# Create a set from the list of elements
+user_set = set(input_list)
+
+# Print the set
+print("Set created from user input:", user_set)

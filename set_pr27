@@ -1,0 +1,9 @@
+# Create a set with some numbers
+original_set = {1, 2, 3, 4, 5}
+
+# Create a new set with elements multiplied by 2
+doubled_set = {x * 2 for x in original_set}
+
+# Print the new set with doubled elements
+print("Original Set:", original_set)
+print("Doubled Set:", doubled_set)

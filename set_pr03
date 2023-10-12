@@ -1,0 +1,8 @@
+# Create a set
+my_set = {1, 2, 3, 4, 5}
+
+# Remove an element from the set using the remove() method
+my_set.remove(3)
+
+# Print the updated set
+print(my_set)

@@ -1,0 +1,8 @@
+# Create a list
+my_list = [1, 2, 3, 4, 5]
+
+# Create a set from the list using the set() constructor
+my_set = set(my_list)
+
+# Print the set
+print(my_set)

@@ -1,0 +1,9 @@
+# Define two tuples
+tuple1 = (1, 2, 3)
+tuple2 = (4, 5, 6)
+
+# Merge the two tuples
+merged_tuple = tuple1 + tuple2
+
+# Print the merged tuple
+print(merged_tuple)

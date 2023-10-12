@@ -1,0 +1,7 @@
+import random
+
+# Create a tuple of 5 random numbers
+random_numbers = tuple(random.randint(1, 100) for _ in range(5))
+
+# Print the tuple of random numbers
+print(random_numbers)

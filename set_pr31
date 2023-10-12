@@ -1,0 +1,8 @@
+# Create a set
+my_set = {1, 2, 3, 4, 5}
+
+# Remove an element using the discard() method
+my_set.discard(3)
+
+# Print the updated set
+print("Updated set:", my_set)

@@ -1,0 +1,5 @@
+
+odd_numbers = {x for x in range(1, 11) if x % 2 != 0}
+
+# Print the set of odd numbers
+print(odd_numbers)

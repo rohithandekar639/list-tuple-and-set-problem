@@ -1,0 +1,9 @@
+# Define two tuples
+tuple1 = (1, 2, 3, 4, 5)
+tuple2 = (1, 2, 3, 4, 5)
+
+# Check if the two tuples are identical
+if tuple1 == tuple2:
+    print("The two tuples are identical.")
+else:
+    print("The two tuples are not identical.")

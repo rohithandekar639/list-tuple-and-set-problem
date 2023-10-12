@@ -1,0 +1,8 @@
+# Create a set with some values
+my_set = {5, 2, 8, 1, 9, 3}
+
+# Find the maximum value in the set
+max_value = max(my_set)
+
+# Print the maximum value
+print("Maximum value in the set:", max_value)

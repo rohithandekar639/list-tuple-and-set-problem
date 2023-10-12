@@ -1,0 +1,9 @@
+# Initialize an empty set
+squares_set = set()
+
+# Create a set of squares of numbers from 1 to 5
+for num in range(1, 6):
+    squares_set.add(num ** 2)
+
+# Print the set of squares
+print("Set of squares:", squares_set)

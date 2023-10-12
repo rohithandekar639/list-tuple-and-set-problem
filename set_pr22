@@ -1,0 +1,9 @@
+# Create two sets
+set1 = {1, 2, 3, 4, 5}
+set2 = {5, 4, 3, 2, 1}
+
+# Check if the two sets are identical
+if set1 == set2:
+    print("The sets are identical.")
+else:
+    print("The sets are not identical.")

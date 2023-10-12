@@ -1,0 +1,8 @@
+# Create a tuple of integers
+int_tuple = (1, 2, 3, 4, 5)
+
+# Convert the tuple of integers to a tuple of strings
+str_tuple = tuple(str(item) for item in int_tuple)
+
+# Print the tuple of strings
+print(str_tuple)

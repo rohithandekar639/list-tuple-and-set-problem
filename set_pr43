@@ -1,0 +1,8 @@
+# Create a list with duplicate elements
+my_list = [1, 2, 2, 3, 4, 4, 5, 6, 6]
+
+# Remove duplicates using sets
+my_list_without_duplicates = list(set(my_list))
+
+# Print the list without duplicates
+print("List without duplicates:", my_list_without_duplicates)

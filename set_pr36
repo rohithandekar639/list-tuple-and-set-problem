@@ -1,0 +1,8 @@
+# Create a tuple
+my_tuple = (1, 2, 3, 4, 5)
+
+# Create a set from the tuple
+my_set = set(my_tuple)
+
+# Print the set
+print("Set from tuple:", my_set)

@@ -1,0 +1,12 @@
+# Create a tuple with unsorted elements
+unsorted_tuple = (5, 2, 8, 1, 3)
+
+sorted_list = list(unsorted_tuple)
+
+# Sort the list
+sorted_list.sort()
+
+sorted_tuple = tuple(sorted_list)
+
+# Print the sorted tuple
+print("Sorted Tuple:", sorted_tuple)

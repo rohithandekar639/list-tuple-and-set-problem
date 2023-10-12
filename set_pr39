@@ -1,0 +1,8 @@
+# Create a set with some values
+my_set = {5, 2, 8, 1, 9, 3}
+
+# Find the minimum value in the set
+min_value = min(my_set)
+
+# Print the maximum value
+print("Minimum value in the set:", min_value)

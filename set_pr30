@@ -1,0 +1,10 @@
+# Create frozensets to be used as elements in the nested set
+nested_set_element1 = frozenset([1, 2, 3])
+nested_set_element2 = frozenset([4, 5, 6])
+nested_set_element3 = frozenset([7, 8, 9])
+
+# Create a set that contains the frozensets
+nested_set = {nested_set_element1, nested_set_element2, nested_set_element3}
+
+# Print the nested set
+print("Nested Set:", nested_set)

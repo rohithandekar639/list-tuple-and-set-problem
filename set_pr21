@@ -1,0 +1,5 @@
+# Create a set of the first 5 prime numbers
+prime_numbers = {2, 3, 5, 7, 11}
+
+# Print the set
+print(prime_numbers)
